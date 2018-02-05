@@ -6,3 +6,4 @@ NMF detected 35 major Topics across > 5 lac Quora questions:
 30'Mathematics',31'Software',32'iphone',33'possibilities',34'Highschool',35'Youtube'
 
 The plot shows most recommended topics for the given celebrity.
+See list of celebrities in mostinfluential.csv
